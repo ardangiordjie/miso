@@ -38,6 +38,7 @@ As a food influencer myself, I wanted a faster way to share a single food post a
   - Export packs: resized images, tailored captions, hashtag sets.
 - Creator tooling: scheduling, cross-post caption variants, aspect-ratio auto-cropping, analytics, UTM/link management.
 - Harden OAuth: complete flows, encrypted token storage, refresh handling, retries, observability.
+- Explore browser agents
 
 ## Running the code
 
