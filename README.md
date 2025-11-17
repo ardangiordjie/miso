@@ -2,7 +2,7 @@
  
 ## Project overview
 
-Miso is a prototype to help food reviewers/influencers draft once and post everywhere (GoogleMaps, Yelp, Instagram, and TikTok). It aims to streamline photo posting, captions, and cross‑platform distribution. The idea enters the “graveyard” primarily due to platform limitations: user‑generated reviews/photos on Google Maps and Yelp cannot be posted via public APIs. While Instagram and TikTok support programmatic publishing (with the right accounts and app permissions), the reviewer‑centric value proposition relies heavily on Google/Yelp, which blocks full automation.
+Miso is a platform for food reviewers/influencers to draft once and post everywhere (GoogleMaps, Yelp, Instagram, and TikTok). It aims to streamline photo posting, captions, and cross‑platform distribution. The idea enters the “graveyard” primarily due to platform limitations: user‑generated reviews/photos on Google Maps and Yelp cannot be posted via public APIs. While Instagram and TikTok support programmatic publishing (with the right accounts and app permissions), the reviewer‑centric value proposition relies heavily on Google/Yelp, which blocks full automation.
 
 ## Built with
 
