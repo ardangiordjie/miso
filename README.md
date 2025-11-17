@@ -1,4 +1,4 @@
-# miso 🫘
+# miso みそ﻿
  
 ## Project overview
 
